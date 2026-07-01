@@ -3,10 +3,12 @@
 // @namespace    https://deepwiki.com
 // @version      1.6
 // @description  Añade un botón para abrir el repositorio en DeepWiki
-// @author       Jose Garcia
+// @author       Ruxwez
 // @match        https://github.com/*
 // @grant        none
 // @run-at       document-idle
+// @updateURL    https://github.com/ruxwez/browser-scripts/raw/refs/heads/main/github-deepwiki-button.user.js
+// @downloadURL  https://github.com/ruxwez/browser-scripts/raw/refs/heads/main/github-deepwiki-button.user.js
 // ==/UserScript==
 
 (function () {
